@@ -1,5 +1,4 @@
 alert("Hola")
-alert("Cristell aqui te presento tus imagenes ")
 var c=document.getElementById("myCanvas");
 var ctx=c.getContext("2d");
 
